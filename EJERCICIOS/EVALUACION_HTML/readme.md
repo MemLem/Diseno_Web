@@ -84,29 +84,17 @@ Preguntas:
        - Elemento: son un tipo de etiqueta que permiten definir la estructura del documento, es decir, posibilitan determinar cómo estará armada la página y sus secciones. 
 
 2. ¿Qué significa la semántica en el contexto de HTML5? (valor 0.3)
-a) Las etiquetas HTML semánticas dan un significado extra al contenido de la
-etiqueta
 
-        a) Las etiquetas HTML semánticas dan un significado extra al contenido de la etiqueta
-        b) La nueva etiqueta <semantic> contiene información sobre cómo interpretar el
-        contenido de la página
         c) Todas las etiquetas ahora tienen un atributo llamado "semántico" que contiene
         información sobre el contenido de la etiqueta.
-        d) Es solo una palabra de moda sin sentido.
   
 3. ¿Qué elemento se utiliza para diferenciar el contenido de una página web del
 material en el que se encuentra (como una barra lateral)? (valor 0.3)
-  
-        a) header
-        b) footer
-        c) nav
+
         d) aside
   
 4. De los siguientes elementos, seleccione el que NO clasifica como marcado semántico. (valor 0.3)
   
-        a) mark
-        b) article
-        c) time
         d) span
   
 5. ¿Menciona al menos 6 elementos semánticos en html5 y descríbelos brevemente? (valor 1.5)
@@ -115,10 +103,10 @@ Los siguientes ejemplos de elementos son incorrectos. Describe lo que está mal 
 uno, y luego escríbelo correctamente. (cada respuesta vale 0.3, en total suman 1.2)
   
            
-        1. <img "birthday.jpg">
-        2. <i>Congratulations!<i>
-        3. <a href="file.html">Enlace de texto</a href="file.html">
-        4. <p>Esto es un párrafo<\p>
+        1. <img "birthday.jpg">. Es incorrecto porque falta el atributo scr=. <img scr= "birthday.jpg">
+        2. <i>Congratulations!<i>. Es incorrecto porque la marca de cierre debería ser </i>: <i>Congratulations!</i>
+        3. <a href="file.html">Enlace de texto</a href="file.html">. 
+        4. <p>Esto es un párrafo<\p>. El sentido de la diagonal es incorrecto: <p>Esto es un párrafo</p>
 
  Indicaciones: La siguiente imagen muestra el contenido de la página web del periodico
 The New York Times. Coloca los elementos semánticos de HTML5 dentro de cada uno de
