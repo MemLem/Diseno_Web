@@ -145,13 +145,10 @@ Preguntas:
     
         a) b
         b) strong
-        c) i
         d) important
     
 6. Elija el elemento HTML correcto para definir el texto enfatizado (valor 0.24)
-    
-        a) italic
-        b) em
+  
         c) i
 
 7. ¿Cuál es el HTML correcto para crear un hipervínculo? (valor 0.24)
