@@ -217,8 +217,6 @@ Preguntas:
 21. ¿Qué elemento HTML define el título de un documento? (valor 0.24)
   
         a) title
-        b) head
-        c) meta
   
 22.¿Qué atributo HTML especifica un texto alternativo para una imagen, si la imagen no se puede mostrar? (valor 0.24)
 
