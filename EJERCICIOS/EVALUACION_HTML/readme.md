@@ -111,8 +111,8 @@ uno, y luego escríbelo correctamente. (cada respuesta vale 0.3, en total suman 
  Indicaciones: La siguiente imagen muestra el contenido de la página web del periodico
 The New York Times. Coloca los elementos semánticos de HTML5 dentro de cada uno de
 los recuadros según corresponda: (valor 0.3 cada una, total 1.8)
-    
- ![image](https://user-images.githubusercontent.com/91554777/164572088-a10117ae-7343-4ad9-9d51-48ae5beb5dbb.png)
+ 
+ ![image](https://user-images.githubusercontent.com/75552884/164752050-63d36c05-8796-4148-b8d7-99c6220a9bdd.png)
     
 ## 4. LENGUAJE HTML
 
