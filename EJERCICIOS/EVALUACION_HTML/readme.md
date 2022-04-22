@@ -144,9 +144,7 @@ Preguntas:
 5. Elija el elemento HTML correcto para definir texto importante (valor 0.24)
     
         a) b
-        b) strong
-        d) important
-    
+  
 6. Elija el elemento HTML correcto para definir el texto enfatizado (valor 0.24)
   
         c) i
