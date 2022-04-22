@@ -105,7 +105,7 @@ uno, y luego escríbelo correctamente. (cada respuesta vale 0.3, en total suman 
            
         1. <img "birthday.jpg">. Es incorrecto porque falta el atributo scr=. <img scr= "birthday.jpg">
         2. <i>Congratulations!<i>. Es incorrecto porque la marca de cierre debería ser </i>: <i>Congratulations!</i>
-        3. <a href="file.html">Enlace de texto</a href="file.html">. 
+        3. <a href="file.html">Enlace de texto</a href="file.html">. La refenrencia sólo se indica una vez y marca de cierre solo debería ser </a>: <a href="file.html">Enlace de texto</a>.
         4. <p>Esto es un párrafo<\p>. El sentido de la diagonal es incorrecto: <p>Esto es un párrafo</p>
 
  Indicaciones: La siguiente imagen muestra el contenido de la página web del periodico
