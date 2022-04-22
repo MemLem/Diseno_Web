@@ -7,11 +7,11 @@ Preguntas:
 
 1. ¿Qué es el hipertexto? (valor 1.0)
  
-        Es un conjunto de objetos (texto, graficos, etc) los cuales se encuentran unidos entre sí mediante enlaces (vinculos, refenrencias, hipervinculos, etc.) y conexiones lógicas. 
+        Es un conjunto de objetos (texto, graficos, etc) los cuales se encuentran unidos entre sí mediante enlaces (vinculos, referencias, hipervinculos, etc.) y conexiones lógicas. 
 
 2. ¿Qué es la hipermedia? (valor 1.0)
 
-        Es un conjunyo de elementos que permiten difusi{on de la informaición por distintos medios fisicos o eletronicods, tales como texcto, imagenes, audios, animaciones, videos, etc. 
+        Es un conjunyo de elementos que permiten difusión de la información por distintos medios fisicos o electronicos, tales como: texto, imagenes, audios, animaciones, videos, etc. 
 
 3. ¿Qué características tiene un lenguaje de etiquetas? (valor 1.0)
 
@@ -19,8 +19,11 @@ Preguntas:
 
 4. ¿Cuáles son las ventajas que introduce HTML5? (valor 1.0)
 
+       Ventaja semántica. Incorpora etiquetas especificas respecto a HTML4, tales como: <header>, <nav>, <article>, <footer>.
 
 5. ¿Cuál es la función del motor de renderizado de un navegador web? (valor 1.0)
+
+       El motor renderizado sirve para traducir un código escrito en "Lenguaje de Marcas de Hipertexto" (HTML) hacia texto, imagenes o sonidos que hemos de experimentar en los navegadores web.
 
 6. Menciona al menos 2 tecnologías de software para el desarrollo de páginas web y explícalas brevemente (valor 1.0)
 
