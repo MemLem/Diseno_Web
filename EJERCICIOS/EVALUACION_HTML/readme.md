@@ -78,7 +78,10 @@ Objetivo: Verificar el dominio del concepto de web semántica y su estructura.
 Indicaciones: Pedir responder o seleccionar la respuesta correcta según sea el caso.
 Preguntas:
 
-1. ¿Menciona brevemente qué es una etiqueta y qué es un elemento? (valor 0.6)
+1. ¿Menciona brevemente qué es una etiqueta y qué es un elemento? (valor 0.6).}
+
+       - Etiqueta: son palabras clave que, por lo regular, se escriben entre los signos <> y que el navegador entiende para dar estructura a la página web.
+       - Elemento: son un tipo de etiqueta que permiten definir la estructura del documento, es decir, posibilitan determinar cómo estará armada la página y sus secciones. 
 
 2. ¿Qué significa la semántica en el contexto de HTML5? (valor 0.3)
 a) Las etiquetas HTML semánticas dan un significado extra al contenido de la
