@@ -25,7 +25,10 @@ Preguntas:
 
        El motor renderizado sirve para traducir un código escrito en "Lenguaje de Marcas de Hipertexto" (HTML) hacia texto, imagenes o sonidos que hemos de experimentar en los navegadores web.
 
-6. Menciona al menos 2 tecnologías de software para el desarrollo de páginas web y explícalas brevemente (valor 1.0)
+6. Menciona al menos 2 tecnologías de software para el desarrollo de páginas web y explícalas brevemente (valor 1.0).
+
+       Visual Studio. Software diseñado para la creación de código en varios lenguajes, entre ellos el HTML. 
+       Bloc de Notas. Software del sistema opertaivo de Windows que permite la crear, editar y ver archivos de texto simple.
 
 ## 2. HERRAMIENTAS PARA LA CREACIÓN DE PÁGINAS WEB
 
