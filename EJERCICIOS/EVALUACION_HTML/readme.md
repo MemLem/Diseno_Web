@@ -99,20 +99,19 @@ material en el que se encuentra (como una barra lateral)? (valor 0.3)
   
 5. ¿Menciona al menos 6 elementos semánticos en html5 y descríbelos brevemente? (valor 1.5)
 
-- <body> : Etiqueta que permite identificar todo el contenido de un docuemtno html. 
-- <header> : Permite generar la estructura de un encabezado en una página web. 
-- <nav> : Etiqueta utilizada para generar enlaces de navegación, tipo menús.
-- <section> : Elemnto que permite estructurar por partes especificas el contenido de algún documento.
-- <footer> : Etiqueta que sirve para generar un pie de página a un documento html. 
-- <aside> : Utilizado para crear una sección que ésta indirectamente relacionada con el contenido del general del docuemnto. Dicha seccicón es ubicada en la barra lateral. 
+       - <body> : Etiqueta que permite identificar todo el contenido de un docuemtno html. 
+       - <header> : Permite generar la estructura de un encabezado en una página web. 
+       - <nav> : Etiqueta utilizada para generar enlaces de navegación, tipo menús.
+       - <section> : Elemnto que permite estructurar por partes especificas el contenido de algún documento.
+       - <footer> : Etiqueta que sirve para generar un pie de página a un documento html. 
+       - <aside> : Utilizado para crear una sección que ésta indirectamente relacionada con el contenido del general del docuemnto. Dicha seccicón es ubicada en la barra lateral. 
   
 Los siguientes ejemplos de elementos son incorrectos. Describe lo que está mal con cada
 uno, y luego escríbelo correctamente. (cada respuesta vale 0.3, en total suman 1.2)
-  
-           
+   
         1. <img "birthday.jpg">. Es incorrecto porque falta el atributo scr=. <img scr= "birthday.jpg">
         2. <i>Congratulations!<i>. Es incorrecto porque la marca de cierre debería ser </i>: <i>Congratulations!</i>
-        3. <a href="file.html">Enlace de texto</a href="file.html">. La refenrencia sólo se indica una vez y marca de cierre solo debería ser </a>: <a href="file.html">Enlace de texto</a>.
+        3. <a href="file.html">Enlace de texto</a href="file.html">. La refenrencia sólo se indica una vez y la marca de cierre solo debería ser </a>: <a href="file.html">Enlace de texto</a>.
         4. <p>Esto es un párrafo<\p>. El sentido de la diagonal es incorrecto: <p>Esto es un párrafo</p>
 
  Indicaciones: La siguiente imagen muestra el contenido de la página web del periodico
