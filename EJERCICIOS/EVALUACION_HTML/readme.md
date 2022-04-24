@@ -15,7 +15,7 @@ Preguntas:
 
 3. ¿Qué características tiene un lenguaje de etiquetas? (valor 1.0)
 
-        Es un conjunto de palabras claves o marcas que permiten estructurar y codificar un documento. Para el caso de HTML dicho documento y sus etiquetas respectiva permiten estructuras un docuemnto para su porterior visualización en una página web.
+        Es un conjunto de palabras claves o marcas que permiten estructurar y codificar un documento. Para el caso de HTML dicho documento y sus etiquetas respectivas permiten estructurar un documento para su posterior visualización en una página web.
 
 4. ¿Cuáles son las ventajas que introduce HTML5? (valor 1.0)
 
@@ -48,7 +48,7 @@ Preguntas:
 2. Menciona al menos 3 editores de texto. Pueden ser tanto comerciales como los preinstalados en algún sistema operativo. (valor 1.0)
 
        - Notepad++
-       - Word
+       - Atom
        - Bloc de Notas
 
 3. ¿Qué extensión debe tener un archivo que contiene el código HTML de una página web? (valor 1.0)
@@ -98,6 +98,13 @@ material en el que se encuentra (como una barra lateral)? (valor 0.3)
         d) span
   
 5. ¿Menciona al menos 6 elementos semánticos en html5 y descríbelos brevemente? (valor 1.5)
+
+- <body> : Etiqueta que permite identificar todo el contenido de un docuemtno html. 
+- <header> : Permite generar la estructura de un encabezado en una página web. 
+- <nav> : Etiqueta utilizada para generar enlaces de navegación, tipo menús.
+- <section> : Elemnto que permite estructurar por partes especificas el contenido de algún documento.
+- <footer> : Etiqueta que sirve para generar un pie de página a un documento html. 
+- <aside> : Utilizado para crear una sección que ésta indirectamente relacionada con el contenido del general del docuemnto. Dicha seccicón es ubicada en la barra lateral. 
   
 Los siguientes ejemplos de elementos son incorrectos. Describe lo que está mal con cada
 uno, y luego escríbelo correctamente. (cada respuesta vale 0.3, en total suman 1.2)
