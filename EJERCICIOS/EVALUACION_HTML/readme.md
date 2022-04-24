@@ -11,7 +11,7 @@ Preguntas:
 
 2. ¿Qué es la hipermedia? (valor 1.0)
 
-        Es un conjunyo de elementos que permiten difusión de la información por distintos medios fisicos o electronicos, tales como: texto, imagenes, audios, animaciones, videos, etc. 
+        Es un conjunto de elementos que permiten la difusión de la información por distintos medios fisicos o electronicos, tales como: texto, imagenes, audios, animaciones, videos, etc. 
 
 3. ¿Qué características tiene un lenguaje de etiquetas? (valor 1.0)
 
