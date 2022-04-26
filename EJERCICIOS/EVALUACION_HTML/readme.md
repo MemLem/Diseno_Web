@@ -250,3 +250,64 @@ extensión .html
 ● No es necesario que incluyas los estilos (CSS) para cada elemento en esta
 actividad pero sí todo el código HTML5 que da estructura a cada una de las
 secciones que se muestran en la imagen de arriba.
+
+
+
+    <!doctype html>
+
+    <html>
+     <head>
+       <title> Título de página </title>
+     </head>
+    </html>
+
+    <body>
+
+      <header>
+        <h1> ENCABEZADO NIVEL 1 </h1>
+          <nav>
+            <ul>
+              <li> ENLACE 1 </li>
+              <li> ENLACE 2 </li>
+              <li> ENLACE 3 </li>
+              <li> ENLACE 4 </li>
+            </ul>
+          </nav>
+      </header>
+
+      <section>
+        <h2> Encabezado nivel 2 </h2>
+
+        <p>
+          Aquí va texto del primer <b> párrafo </b>.
+        </p>
+
+        <p>
+          Aquí va texto del segundo párrafo.
+        </p>
+
+
+        <aside>
+          <h2> Apartado </h2>
+
+          <form action="">
+            Elije una opción: <br>
+            <br>
+            <input type="checkbox" name="Opcion1" id="opcion1"> Opción 1 <br>
+            <input type="checkbox" name="Opcion2" id="opcion2"> Opción 2<br>
+            <input type="checkbox" name="Opcion3" id="opcion3"> Opción 3 <br>
+            <br>
+            <input type="submit" value="Enviar">
+          </form>
+
+        </aside>
+
+      </section>
+
+      <footer>
+
+        <p> Sección de información de contacto, derechos de autor, etc. </p>
+
+      </footer>
+
+    </body>
