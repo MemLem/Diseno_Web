@@ -251,7 +251,6 @@ extensión .html
 actividad pero sí todo el código HTML5 que da estructura a cada una de las
 secciones que se muestran en la imagen de arriba.
 
-
     <!doctype html>
 
     <html>
@@ -275,6 +274,7 @@ secciones que se muestran en la imagen de arriba.
       </header>
 
       <section>
+
         <h2> Encabezado nivel 2 </h2>
 
         <p>
@@ -285,23 +285,23 @@ secciones que se muestran en la imagen de arriba.
           Aquí va texto del segundo párrafo.
         </p>
 
-
-        <aside>
-          <h2> Apartado </h2>
-
-          <form action="">
-            Elije una opción: <br>
-            <br>
-            <input type="checkbox" name="opcion" id="opcion1"> Opción 1 <br>
-            <input type="checkbox" name="opcion" id="opcion2"> Opción 2 <br>
-            <input type="checkbox" name="opcion" id="opcion3"> Opción 3 <br>
-            <br>
-            <input type="submit" value="Enviar">
-          </form>
-
-        </aside>
-
       </section>
+
+      <aside>
+
+        <h2> Apartado </h2>
+
+        <form action="">
+          Elije una opción: <br>
+          <br>
+          <input type="checkbox" name="opcion" id="opcion1"> Opción 1 <br>
+          <input type="checkbox" name="opcion" id="opcion2"> Opción 2 <br>
+          <input type="checkbox" name="opcion" id="opcion3"> Opción 3 <br>
+          <br>
+          <input type="submit" value="Enviar">
+        </form>
+
+      </aside>
 
       <footer>
 
