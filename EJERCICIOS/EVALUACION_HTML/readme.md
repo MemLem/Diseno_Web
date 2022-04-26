@@ -252,7 +252,6 @@ actividad pero sí todo el código HTML5 que da estructura a cada una de las
 secciones que se muestran en la imagen de arriba.
 
 
-
     <!doctype html>
 
     <html>
@@ -279,7 +278,7 @@ secciones que se muestran en la imagen de arriba.
         <h2> Encabezado nivel 2 </h2>
 
         <p>
-          Aquí va texto del primer <b> párrafo </b>.
+          Aquí va texto del primer <b>párrafo</b>.
         </p>
 
         <p>
@@ -293,9 +292,9 @@ secciones que se muestran en la imagen de arriba.
           <form action="">
             Elije una opción: <br>
             <br>
-            <input type="checkbox" name="Opcion1" id="opcion1"> Opción 1 <br>
-            <input type="checkbox" name="Opcion2" id="opcion2"> Opción 2<br>
-            <input type="checkbox" name="Opcion3" id="opcion3"> Opción 3 <br>
+            <input type="checkbox" name="opcion" id="opcion1"> Opción 1 <br>
+            <input type="checkbox" name="opcion" id="opcion2"> Opción 2 <br>
+            <input type="checkbox" name="opcion" id="opcion3"> Opción 3 <br>
             <br>
             <input type="submit" value="Enviar">
           </form>
